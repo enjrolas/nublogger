@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3000"
+   height="3000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/Users/nikki/Desktop/NUB/Datalogger/Introduction Cartoon/Finished Images"
+   sodipodi:docname="page 4.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.183"
+     inkscape:cx="-168.57141"
+     inkscape:cy="1918.6104"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="3000px"
+     height="3000px"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="-54.597954"
+       x="9.0242176"
+       id="image2284"
+       height="3000"
+       width="3000"
+       sodipodi:absref="/Users/nikki/Desktop/NUB/Datalogger/Introduction Cartoon/raw images/page 4.png"
+       xlink:href="/Users/nikki/Desktop/NUB/Datalogger/Introduction Cartoon/raw images/page 4.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier 10 Pitch"
+       x="1551.9126"
+       y="234.97267"
+       id="text2287"><tspan
+         sodipodi:role="line"
+         id="tspan2289"
+         x="1551.9126"
+         y="234.97267"
+         style="font-size:56px">three months and two prototypes later,</tspan><tspan
+         sodipodi:role="line"
+         x="1551.9126"
+         y="304.97267"
+         id="tspan2291"
+         style="font-size:56px">I was holding this:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="1819.6721"
+       y="2803.2788"
+       id="text2293"><tspan
+         sodipodi:role="line"
+         id="tspan2295"
+         x="1819.6721"
+         y="2803.2788"
+         style="font-size:64;font-weight:bold">The NUBlogger 1.0</tspan></text>
+  </g>
+</svg>

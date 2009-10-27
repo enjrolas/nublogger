@@ -1,0 +1,43 @@
+Photoplotter Info File: C:/nub/dongle/transmitter.gpi
+
+ Date              :  9/26/2008 06:11:47p
+ Plotfile          : C:/nub/dongle/transmitter.sts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : yes
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      round     0.0595inch              20
+ D11      rectangle 0.0671inch x 0.0237inch    28
+ D12      rectangle 0.0474inch x 0.0513inch     4
+ D13      rectangle 0.0356inch x 0.0415inch     2
+ D14      round     0.0640inch               4
+ D15      round     0.1380inch               2
+ D16      round     0.0480inch               3
+

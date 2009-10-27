@@ -1,0 +1,14 @@
+
+
+low level:
++ case.jpg
++ datalogger board.jpg
++ wireless radio board.jpg
++ switches and batteries.jpg
++ assembled sensor.jpg
+
+higher level:
++ assembled tube.jpg 
+
+highest level:
++ full assembly.jpg
