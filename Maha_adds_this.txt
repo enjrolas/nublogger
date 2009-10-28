@@ -1,0 +1,6 @@
+This is a test to check how Git works. I will delete this document once I am done!
+
+Alex, you are awesome! Thanks for letting me test with your repo!
+
+Cheers,
+Maha
